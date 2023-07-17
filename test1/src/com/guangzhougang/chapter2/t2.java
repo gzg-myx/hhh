@@ -78,6 +78,7 @@ public class t2 {
         System.out.println(Arrays.toString(array));
         System.out.println(Arrays.toString(array));
         System.out.println(Arrays.toString(array));
+        System.out.println("test1");
     }
 }
 
