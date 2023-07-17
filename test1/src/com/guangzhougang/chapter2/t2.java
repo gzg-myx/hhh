@@ -80,6 +80,7 @@ public class t2 {
         System.out.println(Arrays.toString(array));
         System.out.println("test1");
         System.out.println("hot-fix test2");
+        System.out.println("push test");
     }
 }
 
