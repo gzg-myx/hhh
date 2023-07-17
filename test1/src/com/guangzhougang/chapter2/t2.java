@@ -76,6 +76,7 @@ public class t2 {
 //            System.out.print('\t');
 //        }
         System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(array));
     }
 }
 
